@@ -148,7 +148,7 @@ const KnowledgeSharing: React.FC = () => {
   return (
     <Container>
       <ContentSection>
-        <Title>Global Knowledge Sharing</Title>
+        <Title>Global Knowledge Sharing And JRDN Rules</Title>
         <Subtitle>Collaboration, Wisdom, Progress</Subtitle>
         <Paragraph>
           In today's interconnected world, knowledge sharing has become the cornerstone of human progress. By fostering an environment where ideas flow freely across borders and cultures, we create opportunities for unprecedented innovation and growth. Through collaborative efforts, we can tackle global challenges, spark creative solutions, and build bridges between diverse perspectives. This platform serves as a hub for thought leaders, innovators, and curious minds to connect, share insights, and shape the future of global learning. Together, we can harness the collective wisdom of humanity to drive meaningful change and create lasting impact.

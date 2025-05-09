@@ -1,4 +1,4 @@
-# Global Knowledge Sharing Landing Page
+# Global Knowledge Sharing Landing Page JRDN RULES AND RYAN SMELLS
 
 A modern, responsive landing page built with React and TypeScript for sharing knowledge and collecting feedback.
 
